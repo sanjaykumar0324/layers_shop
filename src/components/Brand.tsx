@@ -15,7 +15,7 @@ const Brand: React.FC = () => {
         <p onClick={handleBrandClick}>Samsung</p>
         <p>Redmi</p>
       </div>
-      <Outlet/>
+      <Outlet /> {/* This will render the nested route */}
     </div>
   );
 };
