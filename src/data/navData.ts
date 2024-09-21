@@ -1,4 +1,4 @@
-import { BAG, DICE, SEARCH } from "../assets/icons";
+import { BAG, DICE, SEARCH } from "../utils/icons";
 
 interface NavItem {
   id: number;
@@ -11,31 +11,31 @@ interface NavItem {
 export const navData: NavItem[] = [
   {
     id: 1,
-    label: "Home",
-    path: "/",
+    label: "Dashboard",
+    path: "/dashboard",
     isIcon : false
   },
   {
     id: 2,
-    label: "Mobile Skins",
+    label: "Mobile",
     path: "/pages/select-brand",
     isIcon : false,
   
   },
   {
     id: 3,
-    label: "Laptop Skins",
-    path: "/laptop-skins",
+    label: "Laptop",
+    path: "/laptops",
     isIcon : false
 
   },
-  {
-    id: 4,
-    label: "Skin Collections",
-    path: "/skin-collections",
-    isIcon : false
+  // {
+  //   id: 4,
+  //   label: "Collections",
+  //   path: "/collections",
+  //   isIcon : false
 
-  },
+  // },
   {
     id: 5,
     label: "Find Your device",
@@ -69,7 +69,7 @@ export const navData: NavItem[] = [
     id: 9,
     label: "Search",
     isIcon : true,
-    path :'/',
+    path :'/search',
     icon :SEARCH
 
   },

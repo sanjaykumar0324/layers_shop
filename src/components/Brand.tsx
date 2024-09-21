@@ -1,21 +1,49 @@
-import React from 'react';
-import { Outlet, useNavigate } from 'react-router-dom';
+import React, { useEffect, useState } from "react";
+import {  useNavigate } from "react-router-dom";
+import {
+  selectBrands,
+  useAppDispatch,
+  useAppSelector,
+} from "../utils/selectors";
+import { fetchAllBrands } from "../redux/brandSlice";
 
 const Brand: React.FC = () => {
   const navigate = useNavigate();
+  const dispatch = useAppDispatch();
 
-  const handleBrandClick = (e: React.MouseEvent<HTMLParagraphElement>) => {
-    navigate(`/pages/select-brand/${e.currentTarget.innerText}`);
-    console.log(e.currentTarget.innerText);
+  useEffect(() => {
+    dispatch(fetchAllBrands());
+  }, []);
+
+  const brandData = useAppSelector(selectBrands);
+
+  const handleBrandClick = (brand: string) => {
+    navigate(`/collections/${brand}`);
+    console.log(brand);
   };
 
   return (
-    <div>
-      <div className='container mx-auto'>
-        <p onClick={handleBrandClick}>Samsung</p>
-        <p>Redmi</p>
+    <div className="container mx-auto">
+      <div className="flex flex-wrap justify-center">
+        {brandData.map((brandItem) => (
+          <div
+            key={brandItem.brandId}
+            onClick={() => handleBrandClick(brandItem.brandName)}
+            className="cursor-pointer flex flex-col items-center mb-[1rem] mx-[1rem]"
+          >
+            <img
+              src={brandItem.image}
+              alt={brandItem.brandName}
+              style={{
+                width: "50px",
+                height: "50px",
+                marginBottom: "0.5rem",
+              }}
+            />
+            <p>{brandItem.brandName}</p>
+          </div>
+        ))}
       </div>
-      <Outlet /> {/* This will render the nested route */}
     </div>
   );
 };

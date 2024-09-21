@@ -1,0 +1,243 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Redmi Note 10",
+      "price": "199.99",
+      "brandName": "Redmi",
+      "brandId": 1,
+      "rating": 4.5,
+      "desc": "A budget-friendly smartphone with great features.",
+      "stock": 50,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+    },
+    {
+      "id": 2,
+      "name": "Redmi Note 11",
+      "price": "249.99",
+      "brandName": "Redmi",
+      "brandId": 1,
+      "rating": 4.6,
+      "desc": "Enhanced performance and camera capabilities.",
+      "stock": 40,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "name": "Redmi 9A",
+      "price": "139.99",
+      "brandName": "Redmi",
+      "brandId": 1,
+      "rating": 4.1,
+      "desc": "Entry-level smartphone with long battery life.",
+      "stock": 60,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+    },
+    {
+      "id": 4,
+      "name": "Redmi K40",
+      "price": "299.99",
+      "brandName": "Redmi",
+      "brandId": 1,
+      "rating": 4.8,
+      "desc": "High-performance device for gaming enthusiasts.",
+      "stock": 30,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy A52",
+      "price": "349.99",
+      "brandName": "Samsung",
+      "brandId": 2,
+      "rating": 4.7,
+      "desc": "Stylish design with a brilliant display.",
+      "stock": 45,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy S21",
+      "price": "799.99",
+      "brandName": "Samsung",
+      "brandId": 2,
+      "rating": 4.9,
+      "desc": "Flagship smartphone with cutting-edge features.",
+      "stock": 25,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy A32",
+      "price": "279.99",
+      "brandName": "Samsung",
+      "brandId": 2,
+      "rating": 4.5,
+      "desc": "Mid-range smartphone with excellent camera quality.",
+      "stock": 35,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy Z Flip 3",
+      "price": "999.99",
+      "brandName": "Samsung",
+      "brandId": 2,
+      "rating": 4.6,
+      "desc": "Innovative foldable phone with premium features.",
+      "stock": 15,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+    },
+    {
+      "id": 9,
+      "name": "iPhone 12",
+      "price": "699.99",
+      "brandName": "Apple",
+      "brandId": 3,
+      "rating": 4.8,
+      "desc": "Powerful performance with an exceptional camera.",
+      "stock": 20,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+    },
+    {
+      "id": 10,
+      "name": "iPhone 13",
+      "price": "799.99",
+      "brandName": "Apple",
+      "brandId": 3,
+      "rating": 4.9,
+      "desc": "Latest features and improved battery life.",
+      "stock": 18,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+    },
+    {
+      "id": 11,
+      "name": "iPhone SE",
+      "price": "399.99",
+      "brandName": "Apple",
+      "brandId": 3,
+      "rating": 4.7,
+      "desc": "Compact design with powerful internals.",
+      "stock": 30,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+    },
+    {
+      "id": 12,
+      "name": "iPhone 14 Pro",
+      "price": "999.99",
+      "brandName": "Apple",
+      "brandId": 3,
+      "rating": 4.9,
+      "desc": "Advanced camera system and top-notch performance.",
+      "stock": 12,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+    },
+    {
+      "id": 13,
+      "name": "Redmi Note 10 Pro",
+      "price": "299.99",
+      "brandName": "Redmi",
+      "brandId": 1,
+      "rating": 4.7,
+      "desc": "Excellent camera and performance for the price.",
+      "stock": 38,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+    },
+    {
+      "id": 14,
+      "name": "Samsung Galaxy M32",
+      "price": "229.99",
+      "brandName": "Samsung",
+      "brandId": 2,
+      "rating": 4.4,
+      "desc": "Great battery life and performance for everyday use.",
+      "stock": 42,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+    },
+    {
+      "id": 15,
+      "name": "Samsung Galaxy A72",
+      "price": "499.99",
+      "brandName": "Samsung",
+      "brandId": 2,
+      "rating": 4.6,
+      "desc": "Versatile camera setup with a large display.",
+      "stock": 28,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+    },
+    {
+      "id": 16,
+      "name": "Redmi 10",
+      "price": "159.99",
+      "brandName": "Redmi",
+      "brandId": 1,
+      "rating": 4.3,
+      "desc": "Affordable smartphone with decent specifications.",
+      "stock": 55,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+    },
+    {
+      "id": 17,
+      "name": "iPhone 13 Mini",
+      "price": "699.99",
+      "brandName": "Apple",
+      "brandId": 3,
+      "rating": 4.8,
+      "desc": "Compact yet powerful with an incredible camera.",
+      "stock": 22,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+    },
+    {
+      "id": 18,
+      "name": "Redmi Note 9",
+      "price": "199.99",
+      "brandName": "Redmi",
+      "brandId": 1,
+      "rating": 4.5,
+      "desc": "Solid performance at an affordable price.",
+      "stock": 40,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+    },
+    {
+      "id": 19,
+      "name": "Samsung Galaxy A12",
+      "price": "199.99",
+      "brandName": "Samsung",
+      "brandId": 2,
+      "rating": 4.3,
+      "desc": "Affordable phone with a large display and decent specs.",
+      "stock": 50,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+    },
+    {
+      "id": 20,
+      "name": "iPhone 14",
+      "price": "799.99",
+      "brandName": "Apple",
+      "brandId": 3,
+      "rating": 4.9,
+      "desc": "Sleek design and powerful performance.",
+      "stock": 18,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+    }
+  ],
+  "brands": [
+    {
+      "image": "data:image/jpeg;base64,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",
+      "brandName": "Samsung",
+      "brandId": 2
+    },
+    {
+      "image": "data:image/png;base64,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",
+
+      "brandName": "Redmi",
+      "brandId": 1
+    },
+    {
+      "image": "data:image/png;base64,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",
+
+      "brandName": "Apple",
+      "brandId": 3
+    }
+  ]
+}

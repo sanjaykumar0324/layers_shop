@@ -7,7 +7,7 @@ const App:React.FC = () => {
   return (
     <BrowserRouter>
       <Layout>
-        <Index/>
+        <Index/> 
       </Layout>
     </BrowserRouter>
   )
