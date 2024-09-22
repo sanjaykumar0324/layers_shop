@@ -29,13 +29,7 @@ export const navData: NavItem[] = [
     isIcon : false
 
   },
-  // {
-  //   id: 4,
-  //   label: "Collections",
-  //   path: "/collections",
-  //   isIcon : false
 
-  // },
   {
     id: 5,
     label: "Find Your device",
@@ -50,13 +44,13 @@ export const navData: NavItem[] = [
     isIcon : false
 
   },
-  {
-    id: 7,
-    label: "Login",
-    path: "/login",
-    isIcon : false
+  // {
+  //   id: 7,
+  //   label: "Login",
+  //   path: "/login",
+  //   isIcon : false
 
-  },
+  // },
   {
     id: 8,
     label: "Dice",

@@ -1,4 +1,4 @@
-import React, { useState, FormEvent, useEffect } from "react";
+import  { useState, FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
 
 function Login() {
@@ -25,11 +25,12 @@ function Login() {
      
 
       const data = await response.json();
-      console.log("Response data:", data);
+      console.log("Response data:", data.accessToken);
 
-      if (data.token) {
+      if (data.accessToken) {
+        console.log("from data.token")
         navigate('/dashboard');
-        localStorage.setItem("token", data.token);
+        localStorage.setItem("token", data.accessToken);
       }
     } catch (error) {
       console.error("There was an error:", error);

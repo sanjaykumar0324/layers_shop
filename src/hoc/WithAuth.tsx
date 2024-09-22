@@ -1,4 +1,4 @@
-import React, {  ComponentType } from "react";
+import  {  ComponentType } from "react";
 import { Navigate } from "react-router-dom";
 
 const WithAuth = (Component : ComponentType) => {

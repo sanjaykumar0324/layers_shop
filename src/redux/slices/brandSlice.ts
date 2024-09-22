@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import { BrandItem } from "../utils/types/Types";
+import { BrandItem } from "../../utils/types/Types";
 import axios from "axios";
-import { API_URL } from "../utils/constants";
+import { API_URL } from "../../utils/constants";
 
 interface InitialState{
     loading : boolean,

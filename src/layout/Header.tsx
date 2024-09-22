@@ -1,6 +1,6 @@
 import React from "react";
 import { navData } from "../data/navData";
-import { NavLink, Link, Outlet } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 
 const Header: React.FC = () => {
   return (

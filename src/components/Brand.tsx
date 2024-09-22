@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import {  useNavigate } from "react-router-dom";
 import {
   selectBrands,
   useAppDispatch,
   useAppSelector,
 } from "../utils/selectors";
-import { fetchAllBrands } from "../redux/brandSlice";
+import { fetchAllBrands } from "../redux/slices/brandSlice";
 
 const Brand: React.FC = () => {
   const navigate = useNavigate();
