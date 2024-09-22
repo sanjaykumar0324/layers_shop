@@ -20,6 +20,8 @@ export type Product = {
     stock: number;
     brandId: number;
     image: string;
+    categoryName:string,
+
 };
 export type BrandItem ={
     image: string;

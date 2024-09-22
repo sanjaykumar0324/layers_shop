@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import { Product } from "../../utils/types/Types";
 import axios from "axios";
-import { API_URL } from "../../utils/constants";
+import { PRODUCT_API } from "../../utils/constants";
 
 interface InitialState {
   loading: boolean;
@@ -17,12 +17,13 @@ const initialState: InitialState = {
 
 export const fetchAllProducts = createAsyncThunk("fetchProducts", async () => {
   try {
-    const  res = await axios.get(API_URL);
+    const  res = await axios.get(PRODUCT_API);
     return res.data.products;
   } catch (error) {
     return error;
   }
 });
+
 const productSlice = createSlice({
   name: "productSlice",
   initialState,

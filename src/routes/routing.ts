@@ -4,7 +4,6 @@ import Brand from "../components/Brand";
 import Collections from "../components/Collections";
 import Login from "../modules/Login";
 import Cart from "../modules/Cart";
-import WithAuth from "../hoc/WithAuth";
 import Dashboard from "../modules/Dashboard";
 import Search from "../components/Search";
 
@@ -54,8 +53,8 @@ export const routing: RoutingItem[] = [
     id: 5,
     label: "Cart",
     path: "/cart",
-    element: WithAuth(Cart),
-    isPrivate: false,
+    element: Cart,
+    isPrivate: true,
   },
   {
     id: 6,
@@ -64,13 +63,14 @@ export const routing: RoutingItem[] = [
     element: Dashboard,
     isPrivate: true,
   },
+
   {
-    id: 7,
-    label: "Brand ",
-    path: "/collections/:brand",
-    element: Collections,
-    isPrivate: false,
-  },
+    id: 8,
+    label : "products",
+    path : "/collections/:category",
+    element :Collections,
+    isPrivate:false
+  }
 
 
 ];

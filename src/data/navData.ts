@@ -18,14 +18,14 @@ export const navData: NavItem[] = [
   {
     id: 2,
     label: "Mobile",
-    path: "/pages/select-brand",
+    path: "/collections/mobile",
     isIcon : false,
   
   },
   {
     id: 3,
     label: "Laptop",
-    path: "/laptops",
+    path: "/collections/laptop",
     isIcon : false
 
   },
@@ -44,13 +44,7 @@ export const navData: NavItem[] = [
     isIcon : false
 
   },
-  // {
-  //   id: 7,
-  //   label: "Login",
-  //   path: "/login",
-  //   isIcon : false
 
-  // },
   {
     id: 8,
     label: "Dice",

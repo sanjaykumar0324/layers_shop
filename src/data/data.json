@@ -9,7 +9,8 @@
       "rating": 4.5,
       "desc": "A budget-friendly smartphone with great features.",
       "stock": 50,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "rating": 4.6,
       "desc": "Enhanced performance and camera capabilities.",
       "stock": 40,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 3,
@@ -31,7 +33,9 @@
       "rating": 4.1,
       "desc": "Entry-level smartphone with long battery life.",
       "stock": 60,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
+
+      "categoryName": "mobile"
     },
     {
       "id": 4,
@@ -42,7 +46,8 @@
       "rating": 4.8,
       "desc": "High-performance device for gaming enthusiasts.",
       "stock": 30,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 5,
@@ -53,7 +58,8 @@
       "rating": 4.7,
       "desc": "Stylish design with a brilliant display.",
       "stock": 45,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 6,
@@ -64,7 +70,8 @@
       "rating": 4.9,
       "desc": "Flagship smartphone with cutting-edge features.",
       "stock": 25,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 7,
@@ -75,7 +82,8 @@
       "rating": 4.5,
       "desc": "Mid-range smartphone with excellent camera quality.",
       "stock": 35,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 8,
@@ -86,7 +94,8 @@
       "rating": 4.6,
       "desc": "Innovative foldable phone with premium features.",
       "stock": 15,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 9,
@@ -97,7 +106,8 @@
       "rating": 4.8,
       "desc": "Powerful performance with an exceptional camera.",
       "stock": 20,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 10,
@@ -119,7 +129,8 @@
       "rating": 4.7,
       "desc": "Compact design with powerful internals.",
       "stock": 30,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 12,
@@ -130,7 +141,8 @@
       "rating": 4.9,
       "desc": "Advanced camera system and top-notch performance.",
       "stock": 12,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 13,
@@ -141,7 +153,8 @@
       "rating": 4.7,
       "desc": "Excellent camera and performance for the price.",
       "stock": 38,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 14,
@@ -152,7 +165,8 @@
       "rating": 4.4,
       "desc": "Great battery life and performance for everyday use.",
       "stock": 42,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 15,
@@ -163,7 +177,8 @@
       "rating": 4.6,
       "desc": "Versatile camera setup with a large display.",
       "stock": 28,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 16,
@@ -174,7 +189,8 @@
       "rating": 4.3,
       "desc": "Affordable smartphone with decent specifications.",
       "stock": 55,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 17,
@@ -185,7 +201,8 @@
       "rating": 4.8,
       "desc": "Compact yet powerful with an incredible camera.",
       "stock": 22,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 18,
@@ -196,7 +213,8 @@
       "rating": 4.5,
       "desc": "Solid performance at an affordable price.",
       "stock": 40,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 19,
@@ -207,7 +225,8 @@
       "rating": 4.3,
       "desc": "Affordable phone with a large display and decent specs.",
       "stock": 50,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/u/0/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrtuhqgre7gr3.jpeg?q=70",
+      "categoryName": "mobile"
     },
     {
       "id": 20,
@@ -218,8 +237,252 @@
       "rating": 4.9,
       "desc": "Sleek design and powerful performance.",
       "stock": 18,
-      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70"
-    }
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
+      "categoryName": "mobile"
+    },
+    {
+      "id": 21,
+      "specification": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/i/w/q/inspiron-5430-laptop-dell-original-imagsc5nryvtsfu4.jpeg?q=70",
+      "name": "Inspiron 15",
+      "brandName": "Dell",
+      "categoryName": "laptop",
+      "price": 699
+  },
+  {
+      "id": 22,
+      "specification": "14-inch, AMD Ryzen 5, 16GB RAM, 1TB HDD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
+      "name": "Acer Aspire 5",
+      "brandName": "Acer",
+      "categoryName": "laptop",
+      "price": 649
+  },
+  {
+      "id": 23,
+      "specification": "13.3-inch, Intel Core i7, 16GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "MacBook Air",
+      "brandName": "Apple",
+      "categoryName": "laptop",
+      "price": 999
+  },
+  {
+      "id": 24,
+      "specification": "15.6-inch, Intel Core i7, 16GB RAM, 1TB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/j/3/-original-imah4qsc47rvvvvj.jpeg?q=70",
+      "name": "HP Pavilion",
+      "brandName": "HP",
+      "categoryName": "laptop",
+      "price": 1099
+  },
+  {
+      "id": 25,
+      "specification": "14-inch, Intel Core i5, 8GB RAM, 256GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
+      "name": "ZenBook 14",
+      "brandName": "ASUS",
+      "categoryName": "laptop",
+      "price": 749
+  },
+  {
+      "id": 26,
+      "specification": "15.6-inch, Intel Core i3, 4GB RAM, 1TB HDD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/i/w/q/inspiron-5430-laptop-dell-original-imagsc5nryvtsfu4.jpeg?q=70",
+      "name": "Inspiron 15 3000",
+      "brandName": "Dell",
+      "categoryName": "laptop",
+      "price": 499
+  },
+  {
+      "id": 27,
+      "specification": "15.6-inch, AMD Ryzen 3, 8GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
+      "name": "Lenovo IdeaPad",
+      "brandName": "Lenovo",
+      "categoryName": "laptop",
+      "price": 599
+  },
+  {
+      "id": 28,
+      "specification": "13.3-inch, Intel Core i7, 16GB RAM, 1TB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/i/w/q/inspiron-5430-laptop-dell-original-imagsc5nryvtsfu4.jpeg?q=70",
+      "name": "XPS 13",
+      "brandName": "Dell",
+      "categoryName": "laptop",
+      "price": 1399
+  },
+  {
+      "id": 29,
+      "specification": "15.6-inch, Intel Core i5, 12GB RAM, 1TB HDD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/j/3/-original-imah4qsc47rvvvvj.jpeg?q=70",
+      "name": "HP 15",
+      "brandName": "HP",
+      "categoryName": "laptop",
+      "price": 849
+  },
+  {
+      "id": 30,
+      "specification": "14-inch, Intel Core i7, 32GB RAM, 2TB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "Surface Laptop",
+      "brandName": "Microsoft",
+      "categoryName": "laptop",
+      "price": 1999
+  },
+  {
+      "id": 31,
+      "specification": "15.6-inch, AMD Ryzen 7, 16GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
+      "name": "Aspire 7",
+      "brandName": "Acer",
+      "categoryName": "laptop",
+      "price": 899
+  },
+  {
+      "id": 32,
+      "specification": "14-inch, Intel Core i5, 8GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
+      "name": "ThinkPad X1 Carbon",
+      "brandName": "Lenovo",
+      "categoryName": "laptop",
+      "price": 1299
+  },
+  {
+      "id": 33,
+      "specification": "15.6-inch, Intel Core i9, 32GB RAM, 1TB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "ROG Zephyrus",
+      "brandName": "ASUS",
+      "categoryName": "laptop",
+      "price": 2499
+  },
+  {
+      "id": 34,
+      "specification": "13.3-inch, Intel Core i5, 8GB RAM, 256GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "MacBook Pro",
+      "brandName": "Apple",
+      "categoryName": "laptop",
+      "price": 1299
+  },
+  {
+      "id": 35,
+      "specification": "15.6-inch, AMD Ryzen 5, 8GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/j/3/-original-imah4qsc47rvvvvj.jpeg?q=70",
+      "name": "HP Pavilion Gaming",
+      "brandName": "HP",
+      "categoryName": "laptop",
+      "price": 799
+  },
+  {
+      "id": 36,
+      "specification": "14-inch, Intel Core i3, 4GB RAM, 1TB HDD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
+      "name": "IdeaPad Slim",
+      "brandName": "Lenovo",
+      "categoryName": "laptop",
+      "price": 449
+  },
+  {
+      "id": 37,
+      "specification": "15.6-inch, Intel Core i5, 16GB RAM, 1TB HDD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
+      "name": "Acer Aspire 7",
+      "brandName": "Acer",
+      "categoryName": "laptop",
+      "price": 899
+  },
+  {
+      "id": 38,
+      "specification": "14-inch, AMD Ryzen 7, 16GB RAM, 1TB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
+      "name": "Lenovo Legion 5",
+      "brandName": "Lenovo",
+      "categoryName": "laptop",
+      "price": 1299
+  },
+  {
+      "id": 39,
+      "specification": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
+      "name": "HP 15s",
+      "brandName": "HP",
+      "categoryName": "laptop",
+      "price": 649
+  },
+  {
+      "id": 40,
+      "specification": "15.6-inch, Intel Core i7, 16GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "Asus VivoBook",
+      "brandName": "ASUS",
+      "categoryName": "laptop",
+      "price": 999
+  },
+  {
+      "id": 41,
+      "specification": "14-inch, AMD Ryzen 3, 8GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "Lenovo IdeaPad Flex 5",
+      "brandName": "Lenovo",
+      "categoryName": "laptop",
+      "price": 699
+  },
+  {
+      "id": 42,
+      "specification": "14-inch, Intel Core i7, 16GB RAM, 1TB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "Dell XPS 13",
+      "brandName": "Dell",
+      "categoryName": "laptop",
+      "price": 1399
+  },
+  {
+      "id": 43,
+      "specification": "15.6-inch, AMD Ryzen 7, 16GB RAM, 1TB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
+      "name": "Lenovo Legion",
+      "brandName": "Lenovo",
+      "categoryName": "laptop",
+      "price": 1299
+  },
+  {
+      "id": 44,
+      "specification": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "Acer Swift 3",
+      "brandName": "Acer",
+      "categoryName": "laptop",
+      "price": 799
+  },
+  {
+      "id": 45,
+      "specification": "15.6-inch, Intel Core i7, 16GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
+      "name": "HP Omen",
+      "brandName": "HP",
+      "categoryName": "laptop",
+      "price": 1299
+  },
+  {
+      "id": 46,
+      "specification": "15.6-inch, Intel Core i3, 4GB RAM, 1TB HDD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
+      "name": "Lenovo IdeaPad 3",
+      "brandName": "Lenovo",
+      "categoryName": "laptop",
+      "price": 499
+  },
+  {
+      "id": 47,
+      "specification": "15.6-inch, AMD Ryzen 5, 8GB RAM, 512GB SSD",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
+      "name": "Dell G5",
+      "brandName": "Dell",
+      "categoryName": "laptop",
+      "price": 899
+  }
   ],
   "brands": [
     {
@@ -238,6 +501,16 @@
 
       "brandName": "Apple",
       "brandId": 3
+    }
+  ],
+  "category": [
+    {
+      "id": "cat1",
+      "name": "mobile"
+    },
+    {
+      "id": "cat2",
+      "name": "laptop"
     }
   ]
 }

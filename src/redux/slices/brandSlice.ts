@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import { BrandItem } from "../../utils/types/Types";
 import axios from "axios";
-import { API_URL } from "../../utils/constants";
+import { PRODUCT_API } from "../../utils/constants";
 
 interface InitialState{
     loading : boolean,
@@ -17,7 +17,7 @@ const initialState :InitialState={
 export const fetchAllBrands = createAsyncThunk(
     "fetchBrands",async()=>{
         try{
-            const res= await axios.get(API_URL);
+            const res= await axios.get(PRODUCT_API);
             console.log(res.data.brands," from brand slice")
             return res.data.brands 
 

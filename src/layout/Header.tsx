@@ -19,7 +19,7 @@ const Header: React.FC = () => {
               <div key={navItem.id}>
                 {navItem.isIcon ? (
                   <div>
-                    <NavLink to={navItem.path} className="text-xl">
+                    <NavLink to={`${navItem.path}`} className="text-xl">
                       {<navItem.icon />}
                     </NavLink>
                   </div>
