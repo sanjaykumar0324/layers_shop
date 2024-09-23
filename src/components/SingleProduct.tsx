@@ -3,12 +3,14 @@ import { Product } from '../utils/types/Types'
 
 
 interface props{
-    product : Product
+    product : Product,
+    onClick :  React.MouseEventHandler<HTMLDivElement>
+
 }
 
-const SingleProduct:React.FC<props> = ({product}) => {
+const SingleProduct:React.FC<props> = ({product,onClick}) => {
   return (
-    <div key={product.id} className='flex flex-col items-center mb-10'> 
+    <div key={product.id} className='flex flex-col items-center justify-center mb-10 bg-white py-10' onClick={onClick}> 
     <img  src={product.image} className='w-[250px]'/>
        <p>{product.name}</p>
        <p>{product.price}$</p>

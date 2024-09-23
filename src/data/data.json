@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redmi Note 10",
-      "price": "199.99",
+      "price": 199.99,
       "brandName": "Redmi",
       "brandId": 1,
       "rating": 4.5,
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "name": "Redmi Note 11",
-      "price": "249.99",
+      "price": 249.99,
       "brandName": "Redmi",
       "brandId": 1,
       "rating": 4.6,
@@ -27,20 +27,19 @@
     {
       "id": 3,
       "name": "Redmi 9A",
-      "price": "139.99",
+      "price": 139.99,
       "brandName": "Redmi",
       "brandId": 1,
       "rating": 4.1,
       "desc": "Entry-level smartphone with long battery life.",
       "stock": 60,
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
-
       "categoryName": "mobile"
     },
     {
       "id": 4,
       "name": "Redmi K40",
-      "price": "299.99",
+      "price": 299.99,
       "brandName": "Redmi",
       "brandId": 1,
       "rating": 4.8,
@@ -52,7 +51,7 @@
     {
       "id": 5,
       "name": "Samsung Galaxy A52",
-      "price": "349.99",
+      "price": 349.99,
       "brandName": "Samsung",
       "brandId": 2,
       "rating": 4.7,
@@ -64,7 +63,7 @@
     {
       "id": 6,
       "name": "Samsung Galaxy S21",
-      "price": "799.99",
+      "price": 799.99,
       "brandName": "Samsung",
       "brandId": 2,
       "rating": 4.9,
@@ -76,7 +75,7 @@
     {
       "id": 7,
       "name": "Samsung Galaxy A32",
-      "price": "279.99",
+      "price": 279.99,
       "brandName": "Samsung",
       "brandId": 2,
       "rating": 4.5,
@@ -88,7 +87,7 @@
     {
       "id": 8,
       "name": "Samsung Galaxy Z Flip 3",
-      "price": "999.99",
+      "price": 999.99,
       "brandName": "Samsung",
       "brandId": 2,
       "rating": 4.6,
@@ -100,7 +99,7 @@
     {
       "id": 9,
       "name": "iPhone 12",
-      "price": "699.99",
+      "price": 699.99,
       "brandName": "Apple",
       "brandId": 3,
       "rating": 4.8,
@@ -112,7 +111,7 @@
     {
       "id": 10,
       "name": "iPhone 13",
-      "price": "799.99",
+      "price": 799.99,
       "brandName": "Apple",
       "brandId": 3,
       "rating": 4.9,
@@ -123,7 +122,7 @@
     {
       "id": 11,
       "name": "iPhone SE",
-      "price": "399.99",
+      "price": 399.99,
       "brandName": "Apple",
       "brandId": 3,
       "rating": 4.7,
@@ -135,7 +134,7 @@
     {
       "id": 12,
       "name": "iPhone 14 Pro",
-      "price": "999.99",
+      "price": 999.99,
       "brandName": "Apple",
       "brandId": 3,
       "rating": 4.9,
@@ -147,7 +146,7 @@
     {
       "id": 13,
       "name": "Redmi Note 10 Pro",
-      "price": "299.99",
+      "price": 299.99,
       "brandName": "Redmi",
       "brandId": 1,
       "rating": 4.7,
@@ -159,7 +158,7 @@
     {
       "id": 14,
       "name": "Samsung Galaxy M32",
-      "price": "229.99",
+      "price": 229.99,
       "brandName": "Samsung",
       "brandId": 2,
       "rating": 4.4,
@@ -171,7 +170,7 @@
     {
       "id": 15,
       "name": "Samsung Galaxy A72",
-      "price": "499.99",
+      "price": 499.99,
       "brandName": "Samsung",
       "brandId": 2,
       "rating": 4.6,
@@ -183,11 +182,11 @@
     {
       "id": 16,
       "name": "Redmi 10",
-      "price": "159.99",
+      "price": 159.99,
       "brandName": "Redmi",
       "brandId": 1,
       "rating": 4.3,
-      "desc": "Affordable smartphone with decent specifications.",
+      "desc": "Affordable smartphone with decent specs.",
       "stock": 55,
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
       "categoryName": "mobile"
@@ -195,7 +194,7 @@
     {
       "id": 17,
       "name": "iPhone 13 Mini",
-      "price": "699.99",
+      "price": 699.99,
       "brandName": "Apple",
       "brandId": 3,
       "rating": 4.8,
@@ -207,7 +206,7 @@
     {
       "id": 18,
       "name": "Redmi Note 9",
-      "price": "199.99",
+      "price": 199.99,
       "brandName": "Redmi",
       "brandId": 1,
       "rating": 4.5,
@@ -219,7 +218,7 @@
     {
       "id": 19,
       "name": "Samsung Galaxy A12",
-      "price": "199.99",
+      "price": 199.99,
       "brandName": "Samsung",
       "brandId": 2,
       "rating": 4.3,
@@ -231,7 +230,7 @@
     {
       "id": 20,
       "name": "iPhone 14",
-      "price": "799.99",
+      "price": 799.99,
       "brandName": "Apple",
       "brandId": 3,
       "rating": 4.9,
@@ -242,247 +241,247 @@
     },
     {
       "id": 21,
-      "specification": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
+      "desc": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/i/w/q/inspiron-5430-laptop-dell-original-imagsc5nryvtsfu4.jpeg?q=70",
       "name": "Inspiron 15",
       "brandName": "Dell",
       "categoryName": "laptop",
       "price": 699
-  },
-  {
+    },
+    {
       "id": 22,
-      "specification": "14-inch, AMD Ryzen 5, 16GB RAM, 1TB HDD",
+      "desc": "14-inch, AMD Ryzen 5, 16GB RAM, 1TB HDD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
       "name": "Acer Aspire 5",
       "brandName": "Acer",
       "categoryName": "laptop",
       "price": 649
-  },
-  {
+    },
+    {
       "id": 23,
-      "specification": "13.3-inch, Intel Core i7, 16GB RAM, 512GB SSD",
+      "desc": "13.3-inch, Intel Core i7, 16GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "MacBook Air",
       "brandName": "Apple",
       "categoryName": "laptop",
       "price": 999
-  },
-  {
+    },
+    {
       "id": 24,
-      "specification": "15.6-inch, Intel Core i7, 16GB RAM, 1TB SSD",
+      "desc": "15.6-inch, Intel Core i7, 16GB RAM, 1TB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/j/3/-original-imah4qsc47rvvvvj.jpeg?q=70",
       "name": "HP Pavilion",
       "brandName": "HP",
       "categoryName": "laptop",
       "price": 1099
-  },
-  {
+    },
+    {
       "id": 25,
-      "specification": "14-inch, Intel Core i5, 8GB RAM, 256GB SSD",
+      "desc": "14-inch, Intel Core i5, 8GB RAM, 256GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
       "name": "ZenBook 14",
       "brandName": "ASUS",
       "categoryName": "laptop",
       "price": 749
-  },
-  {
+    },
+    {
       "id": 26,
-      "specification": "15.6-inch, Intel Core i3, 4GB RAM, 1TB HDD",
+      "desc": "15.6-inch, Intel Core i3, 4GB RAM, 1TB HDD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/i/w/q/inspiron-5430-laptop-dell-original-imagsc5nryvtsfu4.jpeg?q=70",
       "name": "Inspiron 15 3000",
       "brandName": "Dell",
       "categoryName": "laptop",
       "price": 499
-  },
-  {
+    },
+    {
       "id": 27,
-      "specification": "15.6-inch, AMD Ryzen 3, 8GB RAM, 512GB SSD",
+      "desc": "15.6-inch, AMD Ryzen 3, 8GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
       "name": "Lenovo IdeaPad",
       "brandName": "Lenovo",
       "categoryName": "laptop",
       "price": 599
-  },
-  {
+    },
+    {
       "id": 28,
-      "specification": "13.3-inch, Intel Core i7, 16GB RAM, 1TB SSD",
+      "desc": "13.3-inch, Intel Core i7, 16GB RAM, 1TB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/i/w/q/inspiron-5430-laptop-dell-original-imagsc5nryvtsfu4.jpeg?q=70",
       "name": "XPS 13",
       "brandName": "Dell",
       "categoryName": "laptop",
       "price": 1399
-  },
-  {
+    },
+    {
       "id": 29,
-      "specification": "15.6-inch, Intel Core i5, 12GB RAM, 1TB HDD",
+      "desc": "15.6-inch, Intel Core i5, 12GB RAM, 1TB HDD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/j/3/-original-imah4qsc47rvvvvj.jpeg?q=70",
       "name": "HP 15",
       "brandName": "HP",
       "categoryName": "laptop",
       "price": 849
-  },
-  {
+    },
+    {
       "id": 30,
-      "specification": "14-inch, Intel Core i7, 32GB RAM, 2TB SSD",
+      "desc": "14-inch, Intel Core i7, 32GB RAM, 2TB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "Surface Laptop",
       "brandName": "Microsoft",
       "categoryName": "laptop",
       "price": 1999
-  },
-  {
+    },
+    {
       "id": 31,
-      "specification": "15.6-inch, AMD Ryzen 7, 16GB RAM, 512GB SSD",
+      "desc": "15.6-inch, AMD Ryzen 7, 16GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
       "name": "Aspire 7",
       "brandName": "Acer",
       "categoryName": "laptop",
       "price": 899
-  },
-  {
+    },
+    {
       "id": 32,
-      "specification": "14-inch, Intel Core i5, 8GB RAM, 512GB SSD",
+      "desc": "14-inch, Intel Core i5, 8GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
       "name": "ThinkPad X1 Carbon",
       "brandName": "Lenovo",
       "categoryName": "laptop",
       "price": 1299
-  },
-  {
+    },
+    {
       "id": 33,
-      "specification": "15.6-inch, Intel Core i9, 32GB RAM, 1TB SSD",
+      "desc": "15.6-inch, Intel Core i9, 32GB RAM, 1TB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "ROG Zephyrus",
       "brandName": "ASUS",
       "categoryName": "laptop",
       "price": 2499
-  },
-  {
+    },
+    {
       "id": 34,
-      "specification": "13.3-inch, Intel Core i5, 8GB RAM, 256GB SSD",
+      "desc": "13.3-inch, Intel Core i5, 8GB RAM, 256GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "MacBook Pro",
       "brandName": "Apple",
       "categoryName": "laptop",
       "price": 1299
-  },
-  {
+    },
+    {
       "id": 35,
-      "specification": "15.6-inch, AMD Ryzen 5, 8GB RAM, 512GB SSD",
+      "desc": "15.6-inch, AMD Ryzen 5, 8GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/j/3/-original-imah4qsc47rvvvvj.jpeg?q=70",
       "name": "HP Pavilion Gaming",
       "brandName": "HP",
       "categoryName": "laptop",
       "price": 799
-  },
-  {
+    },
+    {
       "id": 36,
-      "specification": "14-inch, Intel Core i3, 4GB RAM, 1TB HDD",
+      "desc": "14-inch, Intel Core i3, 4GB RAM, 1TB HDD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
       "name": "IdeaPad Slim",
       "brandName": "Lenovo",
       "categoryName": "laptop",
       "price": 449
-  },
-  {
+    },
+    {
       "id": 37,
-      "specification": "15.6-inch, Intel Core i5, 16GB RAM, 1TB HDD",
+      "desc": "15.6-inch, Intel Core i5, 16GB RAM, 1TB HDD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
       "name": "Acer Aspire 7",
       "brandName": "Acer",
       "categoryName": "laptop",
       "price": 899
-  },
-  {
+    },
+    {
       "id": 38,
-      "specification": "14-inch, AMD Ryzen 7, 16GB RAM, 1TB SSD",
+      "desc": "14-inch, AMD Ryzen 7, 16GB RAM, 1TB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
       "name": "Lenovo Legion 5",
       "brandName": "Lenovo",
       "categoryName": "laptop",
       "price": 1299
-  },
-  {
+    },
+    {
       "id": 39,
-      "specification": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
+      "desc": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
       "name": "HP 15s",
       "brandName": "HP",
       "categoryName": "laptop",
       "price": 649
-  },
-  {
+    },
+    {
       "id": 40,
-      "specification": "15.6-inch, Intel Core i7, 16GB RAM, 512GB SSD",
+      "desc": "15.6-inch, Intel Core i7, 16GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "Asus VivoBook",
       "brandName": "ASUS",
       "categoryName": "laptop",
       "price": 999
-  },
-  {
+    },
+    {
       "id": 41,
-      "specification": "14-inch, AMD Ryzen 3, 8GB RAM, 512GB SSD",
+      "desc": "14-inch, AMD Ryzen 3, 8GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "Lenovo IdeaPad Flex 5",
       "brandName": "Lenovo",
       "categoryName": "laptop",
       "price": 699
-  },
-  {
+    },
+    {
       "id": 42,
-      "specification": "14-inch, Intel Core i7, 16GB RAM, 1TB SSD",
+      "desc": "14-inch, Intel Core i7, 16GB RAM, 1TB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "Dell XPS 13",
       "brandName": "Dell",
       "categoryName": "laptop",
       "price": 1399
-  },
-  {
+    },
+    {
       "id": 43,
-      "specification": "15.6-inch, AMD Ryzen 7, 16GB RAM, 1TB SSD",
+      "desc": "15.6-inch, AMD Ryzen 7, 16GB RAM, 1TB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
       "name": "Lenovo Legion",
       "brandName": "Lenovo",
       "categoryName": "laptop",
       "price": 1299
-  },
-  {
+    },
+    {
       "id": 44,
-      "specification": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
+      "desc": "15.6-inch, Intel Core i5, 8GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "Acer Swift 3",
       "brandName": "Acer",
       "categoryName": "laptop",
       "price": 799
-  },
-  {
+    },
+    {
       "id": 45,
-      "specification": "15.6-inch, Intel Core i7, 16GB RAM, 512GB SSD",
+      "desc": "15.6-inch, Intel Core i7, 16GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/q/h/-original-imagypv6prbgkfzg.jpeg?q=70",
       "name": "HP Omen",
       "brandName": "HP",
       "categoryName": "laptop",
       "price": 1299
-  },
-  {
+    },
+    {
       "id": 46,
-      "specification": "15.6-inch, Intel Core i3, 4GB RAM, 1TB HDD",
+      "desc": "15.6-inch, Intel Core i3, 4GB RAM, 1TB HDD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/6/b/-original-imah4dcjs4aedxfy.jpeg?q=70",
       "name": "Lenovo IdeaPad 3",
       "brandName": "Lenovo",
       "categoryName": "laptop",
       "price": 499
-  },
-  {
+    },
+    {
       "id": 47,
-      "specification": "15.6-inch, AMD Ryzen 5, 8GB RAM, 512GB SSD",
+      "desc": "15.6-inch, AMD Ryzen 5, 8GB RAM, 512GB SSD",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/8/e/7/15arh7-gaming-laptop-lenovo-original-imah3fj3hneh9gsy.jpeg?q=70",
       "name": "Dell G5",
       "brandName": "Dell",
       "categoryName": "laptop",
       "price": 899
-  }
+    }
   ],
   "brands": [
     {

@@ -64,7 +64,7 @@ export const navData: NavItem[] = [
   {
     id: 10,
     label: "Cart",
-    path: "/cart",
+    path: "/user/cart",
     isIcon : true,
     icon : BAG
 

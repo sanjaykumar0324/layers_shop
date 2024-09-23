@@ -28,3 +28,15 @@ export type BrandItem ={
     brandName: string;
     brandId:number
   }
+
+
+export type Cart={
+    productName : string,
+   quantity : number,
+   productId : number,
+   price : number,
+   image : string
+
+
+
+}

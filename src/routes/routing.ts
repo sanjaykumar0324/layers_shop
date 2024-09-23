@@ -6,6 +6,7 @@ import Login from "../modules/Login";
 import Cart from "../modules/Cart";
 import Dashboard from "../modules/Dashboard";
 import Search from "../components/Search";
+import ProductDetails from "../modules/ProductDetails";
 
 interface RoutingItem {
   id: number;
@@ -52,7 +53,7 @@ export const routing: RoutingItem[] = [
   {
     id: 5,
     label: "Cart",
-    path: "/cart",
+    path: "/user/cart",
     element: Cart,
     isPrivate: true,
   },
@@ -69,6 +70,13 @@ export const routing: RoutingItem[] = [
     label : "products",
     path : "/collections/:category",
     element :Collections,
+    isPrivate:false
+  },
+  {
+    id: 9,
+    label : "product  details",
+    path : "/collections/:category/:productName",
+    element :ProductDetails,
     isPrivate:false
   }
 

@@ -1,8 +1,15 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { navData } from "../data/navData";
 import { NavLink, Link } from "react-router-dom";
+import { fetchAllProducts } from "../redux/slices/productSlice";
+import { useAppDispatch } from "../utils/selectors";
 
 const Header: React.FC = () => {
+  const dispatch = useAppDispatch();
+
+  useEffect(() => {
+    dispatch(fetchAllProducts());
+  }, []);
   return (
     <div>
       <div className="flex gap-10 px-2 py-2 lg:py-4 lg:px-10 justify-between items-center">
