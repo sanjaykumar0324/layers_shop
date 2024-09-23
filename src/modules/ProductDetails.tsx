@@ -1,9 +1,8 @@
-import React, { useEffect, useState } from 'react'
+import React, {  useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { selectProducts, useAppSelector } from '../utils/selectors';
 import { useDispatch } from 'react-redux';
 import { AddItem } from '../redux/slices/cartSlice';
-import { Product } from '../utils/types/Types';
 
 const ProductDetails : React.FC= () => {
 
