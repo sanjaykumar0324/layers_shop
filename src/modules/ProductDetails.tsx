@@ -1,5 +1,5 @@
 import React, {  useState } from 'react'
-import { useParams } from 'react-router-dom'
+import { useNavigate, useParams } from 'react-router-dom'
 import { selectProducts, useAppSelector } from '../utils/selectors';
 import { useDispatch } from 'react-redux';
 import { AddItem } from '../redux/slices/cartSlice';
@@ -8,6 +8,8 @@ const ProductDetails : React.FC= () => {
 
     const[itemCount,setItemCount]=useState(1);
     const dispatch =  useDispatch();
+    const navigate = useNavigate();
+
     
     const {productName} =  useParams();
     const productData = useAppSelector(selectProducts)
@@ -20,9 +22,14 @@ const ProductDetails : React.FC= () => {
    
    const handleAddCart =(product :any)=>{
 
-    
+       if(localStorage.getItem('token')){
         dispatch(AddItem({product,itemCount}));
+
         alert("item Added")
+       }else{
+        navigate('/login')
+       }
+       
    }
 
   return (
